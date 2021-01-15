@@ -1,0 +1,1 @@
+audio_play_sound(sfx_shit,0,false)

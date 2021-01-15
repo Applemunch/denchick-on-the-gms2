@@ -1,0 +1,1 @@
+x += 11 + ((obj_denchick.hsp / 8) * 1)
