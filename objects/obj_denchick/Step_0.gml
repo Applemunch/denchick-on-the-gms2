@@ -59,3 +59,9 @@ if room == escape_1 or room == hack_1
 {
 	room_width = 350000 + (x * 2)
 }
+
+if room == hack_2 or room == chase_2 {
+	visible = false
+} else {
+	visible = true
+}
